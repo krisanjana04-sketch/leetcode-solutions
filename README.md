@@ -14,6 +14,7 @@ My LeetCode solutions and DSA practice
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
@@ -31,4 +32,12 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
