@@ -7,6 +7,7 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0027-remove-element) |
 | [1140-stone-game-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1140-stone-game-ii) |
 ## Hash Table
 |  |
@@ -72,4 +73,8 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
