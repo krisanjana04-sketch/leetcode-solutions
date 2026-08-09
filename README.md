@@ -22,6 +22,7 @@ My LeetCode solutions and DSA practice
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -63,4 +64,12 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1140-stone-game-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
