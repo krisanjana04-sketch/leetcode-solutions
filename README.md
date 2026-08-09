@@ -16,6 +16,7 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [1140-stone-game-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
