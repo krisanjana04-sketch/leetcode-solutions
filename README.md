@@ -19,6 +19,7 @@ My LeetCode solutions and DSA practice
 | [0002-add-two-numbers](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [1140-stone-game-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
@@ -49,10 +50,12 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -61,10 +64,12 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Stack
 |  |
 | ------- |
@@ -77,4 +82,12 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0027-remove-element) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
