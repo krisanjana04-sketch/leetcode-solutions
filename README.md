@@ -44,10 +44,12 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
