@@ -8,6 +8,7 @@ My LeetCode solutions and DSA practice
 | ------- |
 | [0001-two-sum](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0027-remove-element) |
 | [1140-stone-game-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -93,6 +94,7 @@ My LeetCode solutions and DSA practice
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0027-remove-element) |
 ## Nim Game
@@ -106,6 +108,7 @@ My LeetCode solutions and DSA practice
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0015-3sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
