@@ -11,6 +11,7 @@ My LeetCode solutions and DSA practice
 | [0015-3sum](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [1140-stone-game-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -126,4 +127,8 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
