@@ -1,0 +1,42 @@
+class Solution {
+public:
+    bool sumGame(string num) {
+        int n = num.size();
+        int half = n / 2;
+
+        int leftSum = 0, rightSum = 0;
+        int leftQ = 0, rightQ = 0;
+
+        for (int i = 0; i < half; i++) {
+            if (num[i] == '?')
+                leftQ++;
+            else
+                leftSum += num[i] - '0';
+        }
+
+        for (int i = half; i < n; i++) {
+            if (num[i] == '?')
+                rightQ++;
+            else
+                rightSum += num[i] - '0';
+        }
+
+        int diff = leftSum - rightSum;
+        int qDiff = leftQ - rightQ;
+
+        // Equal number of '?' on both sides
+        if (qDiff == 0) {
+            return diff != 0;
+        }
+
+        // Bob can win only if:
+        // 1. Existing difference is opposite to '?' difference
+        // 2. Magnitudes can exactly cancel
+        if (diff * qDiff < 0 &&
+            2 * abs(diff) == 9 * abs(qDiff)) {
+            return false;
+        }
+
+        return true;
+    }
+};
