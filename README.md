@@ -16,6 +16,7 @@ My LeetCode solutions and DSA practice
 | [0088-merge-sorted-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1140-stone-game-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -29,6 +30,7 @@ My LeetCode solutions and DSA practice
 | ------- |
 | [0001-two-sum](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
