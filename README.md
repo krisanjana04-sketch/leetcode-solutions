@@ -19,6 +19,7 @@ My LeetCode solutions and DSA practice
 | [0118-pascals-triangle](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -163,6 +164,7 @@ My LeetCode solutions and DSA practice
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
