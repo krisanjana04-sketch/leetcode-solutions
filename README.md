@@ -72,6 +72,7 @@ My LeetCode solutions and DSA practice
 | [0013-roman-to-integer](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0179-largest-number) |
 | [1927-sum-game](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
