@@ -15,6 +15,7 @@ My LeetCode solutions and DSA practice
 | [0035-search-insert-position](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -75,6 +76,7 @@ My LeetCode solutions and DSA practice
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -173,6 +175,7 @@ My LeetCode solutions and DSA practice
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
