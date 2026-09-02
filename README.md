@@ -77,6 +77,7 @@ My LeetCode solutions and DSA practice
 | [0020-valid-parentheses](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0179-largest-number) |
 | [1927-sum-game](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -154,6 +155,7 @@ My LeetCode solutions and DSA practice
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## Nim Game
 |  |
 | ------- |
