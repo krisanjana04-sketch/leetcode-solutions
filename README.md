@@ -88,6 +88,7 @@ My LeetCode solutions and DSA practice
 | [0179-largest-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0290-word-pattern) |
+| [0316-remove-duplicate-letters](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [1927-sum-game](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -101,6 +102,7 @@ My LeetCode solutions and DSA practice
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0179-largest-number) |
+| [0316-remove-duplicate-letters](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [1386-cinema-seat-allocation](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -154,6 +156,7 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0316-remove-duplicate-letters](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -247,4 +250,8 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
