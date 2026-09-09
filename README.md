@@ -49,6 +49,7 @@ My LeetCode solutions and DSA practice
 | [0003-longest-substring-without-repeating-characters](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -123,6 +124,7 @@ My LeetCode solutions and DSA practice
 | ------- |
 | [0002-add-two-numbers](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -177,6 +179,7 @@ My LeetCode solutions and DSA practice
 | [0027-remove-element](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 ## Nim Game
 |  |
@@ -262,4 +265,8 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
