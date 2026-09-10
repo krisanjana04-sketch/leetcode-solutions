@@ -58,6 +58,7 @@ My LeetCode solutions and DSA practice
 | [0268-missing-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -100,6 +101,7 @@ My LeetCode solutions and DSA practice
 | [0205-isomorphic-strings](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0383-ransom-note](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0383-ransom-note) |
 | [1927-sum-game](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -263,6 +265,7 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
