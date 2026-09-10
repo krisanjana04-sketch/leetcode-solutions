@@ -244,6 +244,7 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -252,6 +253,7 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Counting
 |  |
 | ------- |
@@ -272,4 +274,8 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
