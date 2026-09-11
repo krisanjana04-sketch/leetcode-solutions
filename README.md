@@ -13,6 +13,7 @@ My LeetCode solutions and DSA practice
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0047-permutations-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -110,6 +111,7 @@ My LeetCode solutions and DSA practice
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -205,6 +207,7 @@ My LeetCode solutions and DSA practice
 | ------- |
 | [0015-3sum](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0179-largest-number) |
