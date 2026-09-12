@@ -55,6 +55,7 @@ My LeetCode solutions and DSA practice
 | [0141-linked-list-cycle](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0268-missing-number) |
@@ -78,6 +79,7 @@ My LeetCode solutions and DSA practice
 | [0013-roman-to-integer](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0268-missing-number) |
 | [1140-stone-game-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1510-stone-game-iv) |
@@ -193,6 +195,7 @@ My LeetCode solutions and DSA practice
 | [0141-linked-list-cycle](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Nim Game
 |  |
@@ -288,6 +291,7 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0202-happy-number) |
 ## Depth-First Search
 |  |
 | ------- |
