@@ -77,6 +77,7 @@ My LeetCode solutions and DSA practice
 | [0009-palindrome-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0202-happy-number) |
@@ -231,6 +232,7 @@ My LeetCode solutions and DSA practice
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0136-single-number) |
