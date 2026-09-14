@@ -82,6 +82,7 @@ My LeetCode solutions and DSA practice
 | [0067-add-binary](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1927-sum-game) |
@@ -302,4 +303,8 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
