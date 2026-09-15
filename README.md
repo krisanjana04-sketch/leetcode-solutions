@@ -62,6 +62,7 @@ My LeetCode solutions and DSA practice
 | [0290-word-pattern](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -109,6 +110,7 @@ My LeetCode solutions and DSA practice
 | [0290-word-pattern](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1927-sum-game](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -219,6 +221,7 @@ My LeetCode solutions and DSA practice
 | [0217-contains-duplicate](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
@@ -239,6 +242,7 @@ My LeetCode solutions and DSA practice
 | [0136-single-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
