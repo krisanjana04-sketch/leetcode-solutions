@@ -27,6 +27,7 @@ My LeetCode solutions and DSA practice
 | [0169-majority-element](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -59,6 +60,7 @@ My LeetCode solutions and DSA practice
 | [0202-happy-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -231,6 +233,7 @@ My LeetCode solutions and DSA practice
 | [0169-majority-element](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -296,11 +299,13 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
