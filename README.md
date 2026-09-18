@@ -27,6 +27,7 @@ My LeetCode solutions and DSA practice
 | [0169-majority-element](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0268-missing-number) |
@@ -60,6 +61,7 @@ My LeetCode solutions and DSA practice
 | [0202-happy-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0290-word-pattern) |
@@ -242,6 +244,7 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
