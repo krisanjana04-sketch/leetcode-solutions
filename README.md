@@ -35,6 +35,7 @@ My LeetCode solutions and DSA practice
 | [0349-intersection-of-two-arrays](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1140-stone-game-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -247,6 +248,7 @@ My LeetCode solutions and DSA practice
 | [0349-intersection-of-two-arrays](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sliding Window
 |  |
