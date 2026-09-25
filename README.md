@@ -36,6 +36,7 @@ My LeetCode solutions and DSA practice
 | [0350-intersection-of-two-arrays-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1140-stone-game-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -81,6 +82,7 @@ My LeetCode solutions and DSA practice
 | [0409-longest-palindrome](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [1386-cinema-seat-allocation](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -138,6 +140,7 @@ My LeetCode solutions and DSA practice
 | [0389-find-the-difference](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [1927-sum-game](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
