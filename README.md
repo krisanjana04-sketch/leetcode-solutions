@@ -13,6 +13,7 @@ My LeetCode solutions and DSA practice
 | [0026-remove-duplicates-from-sorted-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -154,6 +155,7 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
