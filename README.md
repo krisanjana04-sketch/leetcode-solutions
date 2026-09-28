@@ -15,6 +15,7 @@ My LeetCode solutions and DSA practice
 | [0035-search-insert-position](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0090-subsets-ii) |
@@ -102,6 +103,7 @@ My LeetCode solutions and DSA practice
 | [0012-integer-to-roman](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0069-sqrtx) |
@@ -365,6 +367,7 @@ My LeetCode solutions and DSA practice
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Monotonic Stack
 |  |
