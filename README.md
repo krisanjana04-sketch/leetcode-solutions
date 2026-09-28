@@ -144,6 +144,7 @@ My LeetCode solutions and DSA practice
 | [0409-longest-palindrome](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -231,11 +232,13 @@ My LeetCode solutions and DSA practice
 | [0316-remove-duplicate-letters](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
