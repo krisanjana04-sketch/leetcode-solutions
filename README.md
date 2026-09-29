@@ -18,6 +18,7 @@ My LeetCode solutions and DSA practice
 | [0048-rotate-image](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -136,6 +137,7 @@ My LeetCode solutions and DSA practice
 | [0020-valid-parentheses](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0179-largest-number) |
@@ -161,6 +163,7 @@ My LeetCode solutions and DSA practice
 | [0046-permutations](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -371,6 +374,7 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Monotonic Stack
 |  |
@@ -385,6 +389,7 @@ My LeetCode solutions and DSA practice
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0079-word-search) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
 |  |
