@@ -17,6 +17,7 @@ My LeetCode solutions and DSA practice
 | [0047-permutations-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -159,6 +160,7 @@ My LeetCode solutions and DSA practice
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -307,6 +309,7 @@ My LeetCode solutions and DSA practice
 | ------- |
 | [0029-divide-two-integers](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0137-single-number-ii) |
