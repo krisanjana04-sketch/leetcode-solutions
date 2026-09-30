@@ -424,4 +424,8 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
