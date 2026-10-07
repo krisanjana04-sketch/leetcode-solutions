@@ -36,6 +36,7 @@ My LeetCode solutions and DSA practice
 | [0229-majority-element-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -234,6 +235,7 @@ My LeetCode solutions and DSA practice
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1140-stone-game-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -445,4 +447,8 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0175-combine-two-tables) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
