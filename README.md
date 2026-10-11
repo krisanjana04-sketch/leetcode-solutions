@@ -52,6 +52,7 @@ My LeetCode solutions and DSA practice
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -424,6 +425,7 @@ My LeetCode solutions and DSA practice
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
