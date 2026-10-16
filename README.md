@@ -162,6 +162,7 @@ My LeetCode solutions and DSA practice
 | [0392-is-subsequence](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0482-license-key-formatting](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0856-score-of-parentheses](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
