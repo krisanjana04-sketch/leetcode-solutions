@@ -23,13 +23,11 @@ public:
                 if(s[i+1] == 'D') b = 500;
                 if(s[i+1] == 'M') b = 1000;
             }
-
             if(a < b)
                 ans -= a;
             else
                 ans += a;
         }
-
         return ans;
     }
 };
