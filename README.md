@@ -63,6 +63,7 @@ My LeetCode solutions and DSA practice
 | [3524-find-x-value-of-array-i](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -423,6 +424,7 @@ My LeetCode solutions and DSA practice
 | [0048-rotate-image](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -438,6 +440,7 @@ My LeetCode solutions and DSA practice
 | ------- |
 | [0079-word-search](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0079-word-search) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Enumeration
 |  |
 | ------- |
@@ -484,4 +487,12 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
