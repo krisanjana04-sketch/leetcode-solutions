@@ -2,10 +2,8 @@ class Solution {
 public:
     int romanToInt(string s) {
         int ans = 0;
-
         for(int i = 0; i < s.size(); i++) {
             int a = 0, b = 0;
-
             if(s[i] == 'I') a = 1;
             if(s[i] == 'V') a = 5;
             if(s[i] == 'X') a = 10;
