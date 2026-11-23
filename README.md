@@ -51,6 +51,7 @@ My LeetCode solutions and DSA practice
 | [0747-largest-number-at-least-twice-of-others](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1140-stone-game-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1267-count-servers-that-communicate](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -139,6 +140,7 @@ My LeetCode solutions and DSA practice
 | [0509-fibonacci-number](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1510-stone-game-iv](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/2409-count-days-spent-together) |
@@ -271,6 +273,7 @@ My LeetCode solutions and DSA practice
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1140-stone-game-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -503,6 +506,7 @@ My LeetCode solutions and DSA practice
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -521,4 +525,8 @@ My LeetCode solutions and DSA practice
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/krisanjana04-sketch/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
